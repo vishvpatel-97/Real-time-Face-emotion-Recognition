@@ -4,7 +4,7 @@
 
 ## Short glimpse of my project
 
-<img src="https://github.com/vishvpatel-97//Real-time-Face-emotion-Recognition/blob/main/Demo.png" width=500, height=400>
+<img src="https://github.com/vishvpatel-97//Real-time-Face-emotion-Recognition/blob/main/Demo.PNG" width=500, height=400>
 
 
 Create folder : Dataset
