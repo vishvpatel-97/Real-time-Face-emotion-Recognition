@@ -10,6 +10,7 @@
 
 Create folder : Dataset
 In Dataset folder create 2 folders : train and test Put training images in train folder and validation images in test folder.
+Dataset contains seven classes named as **Angry,Disgust,Fear,Happy,Sad,Suprise,Neutral**.
 Download dataset from this link: https://www.kaggle.com/msambare/fer2013
 
 ### Project Brief:
